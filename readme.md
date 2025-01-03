@@ -1,4 +1,7 @@
-## Heyoo everyone, welcome to my git guide!
+## Welcome to Git!
+
+- This is coming from dev-ian
+
 
 - Yo, Shivoya here
 
